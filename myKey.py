@@ -1,2 +1,2 @@
 # write your KEY
-KEY = 'xxx'
+KEY = 'xxxxxx'
