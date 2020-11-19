@@ -5,9 +5,10 @@
 
 import requests
 import json
+from myKey import KEY
 
 ''' official website https://www.heweather.com '''
-mykey = '&key=cf4dcd08f31648b2b2efad08de8ff7de' # EDIT HERE!
+mykey = '&key=' + KEY # EDIT HERE!
 
 url_api_weather = 'https://devapi.qweather.com/v7/weather/'
 url_api_geo = 'https://geoapi.qweather.com/v2/city/'
