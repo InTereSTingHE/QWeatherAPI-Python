@@ -7,7 +7,8 @@ import requests
 import json
 from myKey import KEY
 
-''' official website https://www.heweather.com '''
+''' official website  https://www.qweather.com '''
+'''      dev website  https://dev.qweather.com'''
 mykey = '&key=' + KEY # EDIT HERE!
 
 url_api_weather = 'https://devapi.qweather.com/v7/weather/'
