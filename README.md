@@ -1,4 +1,4 @@
-# heWeatherAPI-Python
+# QWeatherAPI-Python
 
 ## 使用Python的requests库实现和风天气API调用
 
