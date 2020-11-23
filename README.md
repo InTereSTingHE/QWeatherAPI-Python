@@ -1,4 +1,4 @@
-# QWeatherAPI-Python  <img src="https://cdn.qweather.com/media/powered-by-heweather-dark2.png"  width="160" height="20" alt="数据来自和风天气" />
+# <img src="https://cdn.qweather.com/media/logo-dark-30.png" width="30" height="30" alt="数据来自和风天气" />  QWeatherAPI-Python  <img src="https://cdn.qweather.com/media/powered-by-heweather-dark2.png"  width="160" height="20" alt="数据来自和风天气" />
 
 ## 使用Python的requests库实现和风天气API调用
 
