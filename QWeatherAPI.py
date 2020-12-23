@@ -52,6 +52,9 @@ def hourly():
     return get_hourly['hourly']
 
 if __name__ == '__main__':
+    if KEY == '':
+        print('No Key! Get it first!')
+
     print('请输入城市:')
     city_input = input()
     city_idname = get_city(city_input)
