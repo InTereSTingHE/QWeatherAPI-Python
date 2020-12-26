@@ -1,5 +1,5 @@
 # <img src="https://cdn.qweather.com/media/logo-dark-30.png" width="30" height="30" alt="数据来自和风天气" />  QWeatherAPI-Python  <img src="https://cdn.qweather.com/media/powered-by-heweather-dark2.png"  width="160" height="20" alt="数据来自和风天气" />
-[![HitCount](http://hits.dwyl.com/InTereSTingHE/InTereSTingHE/QWeatherAPI-Python.svg)](http://hits.dwyl.com/InTereSTingHE/InTereSTingHE/QWeatherAPI-Python)
+![GitHub Repo stars](https://img.shields.io/github/stars/InTereSTingHE/QWeatherAPI-Python?style=social) [![HitCount](http://hits.dwyl.com/InTereSTingHE/InTereSTingHE/QWeatherAPI-Python.svg)](http://hits.dwyl.com/InTereSTingHE/InTereSTingHE/QWeatherAPI-Python)
 
 ## 使用Python的requests库实现和风天气API调用
 
