@@ -21,7 +21,7 @@ def get(api_type):
     return requests.get(url).json()
 
 def rain(lat, lon):
-    url = url_api_rain  + '?location=' + lat + ',' + lon + mykey
+    url = url_api_rain  + '?location=' + lon + ',' + lat + mykey
     return requests.get(url).json()
 
 def air(city_id):
